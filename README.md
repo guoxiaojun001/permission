@@ -2,6 +2,7 @@
 关于android6.0中动态申请权限问题
 
 
+//一下随便粘贴处一段代码，直供参考
 @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
